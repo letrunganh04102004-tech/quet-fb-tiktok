@@ -1,0 +1,5 @@
+{
+  "name": "Social Video AI Transcriber",
+  "description": "An application to scan TikTok and Facebook channels, get video lists using Apify, and transcribe video audio to text in bulk using Google's Gemini AI.",
+  "requestFramePermissions": []
+}
